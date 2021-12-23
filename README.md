@@ -1,3 +1,3 @@
 # my-portfolio
 
-link: https://drv.tw/~shubhamdalmia.15@gmail.com/gd/shubhamdalmia
+link: https://shubham-dalmia.github.io/my-portfolio.github.io/
